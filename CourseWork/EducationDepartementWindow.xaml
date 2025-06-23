@@ -1,0 +1,110 @@
+﻿<Window x:Class="CourseWork.EducationDepartementWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CourseWork"
+        mc:Ignorable="d" 
+        Title="EducationDepartementWindow"  Height="700" Width="1150" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None" >
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="670"/>
+
+
+        </Grid.RowDefinitions>
+
+        <Grid x:Name="Shoke" Grid.Row="1" >
+            <Grid.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF3A3838"/>
+                    <GradientStop Color="#FFB3B3B3" Offset="1"/>
+                </LinearGradientBrush>
+            </Grid.Background>
+
+            <ComboBox x:Name="combox1" HorizontalAlignment="Left" Height="28" Margin="236,566,0,0" VerticalAlignment="Top" Width="242" />
+            <Button x:Name="ButtonSelect" Content="Выбрать пользователя" HorizontalAlignment="Left" Height="43" Margin="266,615,0,0" VerticalAlignment="Top" Width="182" Click="ButtonSelect_Click" FontSize="10"/>
+            <TextBlock x:Name="label" HorizontalAlignment="Left" Margin="135,361,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
+            <ComboBox x:Name="CategoryComboBox" HorizontalAlignment="Left" Height="28" Margin="10,566,0,0" VerticalAlignment="Top" Width="195"/>
+            <Button x:Name="ButtonCategory" Content="Выбор" HorizontalAlignment="Left" Height="43" Margin="24,615,0,0" VerticalAlignment="Top" Width="166" Click="ButtonCategory_Click"/>
+            <DataGrid x:Name="DataGridCategory" IsReadOnly="True" HorizontalAlignment="Left" Height="540" Margin="10,10,0,0" VerticalAlignment="Top" Width="955" d:ItemsSource="{d:SampleData ItemCount=5}" Background="#FF4E4E4E"/>
+            <TextBlock x:Name="NAME" HorizontalAlignment="Left" Margin="71,534,0,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+            <Button x:Name="DeleteButton" Content="Удалить аккаунт" HorizontalAlignment="Left" Height="41" Margin="520,629,0,0" VerticalAlignment="Top" Width="188" Click="DeleteButton_Click" />
+            <Button Content="Добавить пользователя" HorizontalAlignment="Left" Height="51" Margin="520,566,0,0" VerticalAlignment="Top" Width="188" Click="Button_Click_3"/>
+            <TextBox x:Name="FirstNameTextBlock" HorizontalAlignment="Left" Height="26" Margin="970,28,0,0" TextWrapping="Wrap" Text="Имя" VerticalAlignment="Top" Width="158"/>
+            <TextBox  x:Name="SecondNameTextBlock" HorizontalAlignment="Left" Height="30" Margin="970,82,0,0" TextWrapping="Wrap" Text="Фамилия" VerticalAlignment="Top" Width="158"/>
+            <TextBox  x:Name="MiddleName" HorizontalAlignment="Left" Height="30" Margin="970,145,0,0" TextWrapping="Wrap" Text="Отчество" VerticalAlignment="Top" Width="158"/>
+            <ComboBox  x:Name="TextBox_Position" HorizontalAlignment="Left" Height="28" Margin="970,202,0,0"  Text="Должность" VerticalAlignment="Top" Width="158"/>
+            <Button x:Name="Button_Complect" Content="Обновить данные" HorizontalAlignment="Left" Height="102" Margin="963,566,0,0" VerticalAlignment="Top" Width="172" Click="Button_Click" />
+            <ComboBox  x:Name="TextBox_Academic" HorizontalAlignment="Left" Height="28" Margin="970,266,0,0"  Text="Пароль" VerticalAlignment="Top" Width="158" RenderTransformOrigin="0.5,0.929"/>
+            <ComboBox  x:Name="TextBox_PublicWork" HorizontalAlignment="Left" Height="28" Margin="970,0,0,0"  Text="Пароль" VerticalAlignment="Center" Width="158" RenderTransformOrigin="0.5,0.929"/>
+            <TextBox  x:Name="Hours" HorizontalAlignment="Left" Height="28" Margin="970,386,0,0" TextWrapping="Wrap" Text="Часы" VerticalAlignment="Top" Width="158" RenderTransformOrigin="0.5,0.929"/>
+            <ComboBox  x:Name="TextBox_Dicipline" HorizontalAlignment="Left" Height="28" Margin="970,450,0,0" Text="Пароль" VerticalAlignment="Top" Width="158" RenderTransformOrigin="0.5,0.929"/>
+            <CheckBox  x:Name="CheckBox1" HorizontalAlignment="Left" Height="28" Margin="1036,507,0,0" VerticalAlignment="Top" Width="26" RenderTransformOrigin="0.5,0.929"/>
+            <TextBlock HorizontalAlignment="Left" Height="17" Margin="980,483,0,0" TextWrapping="Wrap" Text="Совместительство" VerticalAlignment="Top" Width="138" FontFamily="Segoe UI Black" FontSize="14" Foreground="White"/>
+            <Button  Content="Поиск" HorizontalAlignment="Left" Height="25" Margin="736,611,0,0" VerticalAlignment="Top" Width="208" Click="SearchButton_Click" />
+            <Button x:Name="ResetSearch" Content="Сбросить результат" HorizontalAlignment="Left" Height="25" Margin="736,641,0,0" VerticalAlignment="Top" Width="208" Click="ResetSearchButton_Click" />
+            <TextBox  x:Name="Search" HorizontalAlignment="Left" Height="30" Margin="736,566,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="208"/>
+        </Grid>
+        <Grid x:Name="ToolBar" Background="Transparent" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" MouseDown="ToolBar_MouseDown">
+            <Polygon Fill="Black" Points="0,0,0,30,50,30" Opacity="0.85"/>
+            <Polygon Fill="Black" Points="0,0,50,30,400,30,340,0" Opacity="0.88"/>
+            <Polygon Fill="Black" Points="340,0,400,30,900,30,840,0" Opacity="0.9"/>
+            <Polygon Fill="Black" Points="840,0,900,30,1150,30,1150,0" Opacity="0.92"/>
+
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                <Image x:Name="MinButton" Height="15" Width="15" Margin="5,5,7,5" MouseDown="MinButton_MouseDown">
+                    <Image.Style>
+                        <Style TargetType="{x:Type Image}">
+                            <Setter Property="Source" Value="/Resource/clear sleep.png"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding IsMouseOver, ElementName=MinButton}" Value="True">
+                                    <Setter Property="Source" Value= "/Resource/clear NOPE sleep.png"/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Image.Style>
+                    <Image.Effect>
+                        <BlurEffect Radius="1.5"/>
+                    </Image.Effect>
+                </Image>
+                <Image x:Name="CloseButton" Height="15" Width="15" Margin="5" MouseDown="CloseButton_MouseDown">
+                    <Image.Style>
+                        <Style TargetType="{x:Type Image}">
+                            <Setter Property="Source" Value="/Resource/close sleep.png"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding IsMouseOver, ElementName=CloseButton}" Value="True">
+                                    <Setter Property="Source" Value= "/Resource/close NOPE sleep.png"/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Image.Style>
+                    <Image.Effect>
+                        <BlurEffect Radius="1.5"/>
+                    </Image.Effect>
+                </Image>
+            </StackPanel>
+        </Grid>
+        <TextBlock HorizontalAlignment="Left" Height="17" Margin="973,5,0,0" TextWrapping="Wrap" Text="Имя" VerticalAlignment="Top" Width="40" FontFamily="Segoe UI Black" FontSize="14" Foreground="White" Grid.Row="1"/>
+        <TextBlock HorizontalAlignment="Left" Height="17" Margin="973,60,0,0" TextWrapping="Wrap" Text="Фамилия" VerticalAlignment="Top" Width="76" FontFamily="Segoe UI Black" FontSize="14" Foreground="White" Grid.Row="1"/>
+        <TextBlock HorizontalAlignment="Left" Height="17" Margin="973,120,0,0" TextWrapping="Wrap" Text="Отчество" VerticalAlignment="Top" Width="76" FontFamily="Segoe UI Black" FontSize="14" Foreground="White" Grid.Row="1"/>
+        <TextBlock HorizontalAlignment="Left" Height="17" Margin="973,182,0,0" TextWrapping="Wrap" Text="Должность" VerticalAlignment="Top" Width="91" FontFamily="Segoe UI Black" FontSize="14" Foreground="White" Grid.Row="1"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Учебнный отдел" Height="24" Width="243" Foreground="White" FontSize="18" FontFamily="Segoe UI Black" FontWeight="Bold" VerticalAlignment="Top" Margin="0,-3,0,0"/>
+        <TextBlock HorizontalAlignment="Left" Height="17" Margin="972,244,0,0" TextWrapping="Wrap" Text="Учетная степень" VerticalAlignment="Top" Width="126" FontFamily="Segoe UI Black" FontSize="14" Foreground="White" Grid.Row="1" RenderTransformOrigin="0.5,0.5">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.579"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <TextBlock HorizontalAlignment="Left" Height="17" Margin="973,303,0,0" TextWrapping="Wrap" Text="Общественная работа" VerticalAlignment="Top" Width="158" FontFamily="Segoe UI Black" Foreground="White" Grid.Row="1"/>
+        <TextBlock HorizontalAlignment="Left" Height="17" Margin="973,360,0,0" TextWrapping="Wrap" Text="Часы" VerticalAlignment="Top" Width="68" FontFamily="Segoe UI Black" FontSize="14" Foreground="White" Grid.Row="1"/>
+        <TextBlock HorizontalAlignment="Left" Height="17" Margin="973,425,0,0" TextWrapping="Wrap" Text="Дисциплина" VerticalAlignment="Top" Width="95" FontFamily="Segoe UI Black" FontSize="14" Foreground="White" Grid.Row="1"/>
+
+    </Grid>
+</Window>

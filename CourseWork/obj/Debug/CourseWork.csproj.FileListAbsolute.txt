@@ -1,0 +1,313 @@
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.AssemblyReference.cache
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\MainWindow.g.cs
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\App.g.cs
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork_MarkupCompile.cache
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork_MarkupCompile.lref
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\EntityFramework.dll
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\System.Data.SQLite.dll
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\EntityFramework.xml
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\System.Data.SQLite.xml
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\MainWindow.baml
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.g.resources
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CopyComplete
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\Registration.g.cs
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\Registration.baml
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\AdminMenu.g.cs
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\UserMenu.g.cs
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\AdminMenu.baml
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\UserMenu.baml
+D:\Учеба\ТП\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+D:\Учеба\ТП\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+D:\Учеба\ТП\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+D:\Учеба\ТП\CourseWork\CourseWork\bin\Debug\EntityFramework.dll
+D:\Учеба\ТП\CourseWork\CourseWork\bin\Debug\EntityFramework.SqlServer.dll
+D:\Учеба\ТП\CourseWork\CourseWork\bin\Debug\System.Data.SQLite.dll
+D:\Учеба\ТП\CourseWork\CourseWork\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Учеба\ТП\CourseWork\CourseWork\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Учеба\ТП\CourseWork\CourseWork\bin\Debug\EntityFramework.xml
+D:\Учеба\ТП\CourseWork\CourseWork\bin\Debug\EntityFramework.SqlServer.xml
+D:\Учеба\ТП\CourseWork\CourseWork\bin\Debug\System.Data.SQLite.xml
+D:\Учеба\ТП\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.AssemblyReference.cache
+D:\Учеба\ТП\CourseWork\CourseWork\obj\Debug\AdminMenu.g.cs
+D:\Учеба\ТП\CourseWork\CourseWork\obj\Debug\MainWindow.g.cs
+D:\Учеба\ТП\CourseWork\CourseWork\obj\Debug\Registration.g.cs
+D:\Учеба\ТП\CourseWork\CourseWork\obj\Debug\UserMenu.g.cs
+D:\Учеба\ТП\CourseWork\CourseWork\obj\Debug\App.g.cs
+D:\Учеба\ТП\CourseWork\CourseWork\obj\Debug\CourseWork_MarkupCompile.cache
+D:\Учеба\ТП\CourseWork\CourseWork\obj\Debug\CourseWork_MarkupCompile.lref
+D:\Учеба\ТП\CourseWork\CourseWork\obj\Debug\AdminMenu.baml
+D:\Учеба\ТП\CourseWork\CourseWork\obj\Debug\MainWindow.baml
+D:\Учеба\ТП\CourseWork\CourseWork\obj\Debug\Registration.baml
+D:\Учеба\ТП\CourseWork\CourseWork\obj\Debug\UserMenu.baml
+D:\Учеба\ТП\CourseWork\CourseWork\obj\Debug\CourseWork.g.resources
+D:\Учеба\ТП\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+D:\Учеба\ТП\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+D:\Учеба\ТП\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+D:\Учеба\ТП\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CopyComplete
+D:\Учеба\ТП\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+D:\Учеба\ТП\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+D:\Учеба\ТП\CourseWork\CourseWork\obj\Debug\TakeCourses.g.cs
+D:\Учеба\ТП\CourseWork\CourseWork\obj\Debug\TakeCourses.baml
+D:\Учеба\ТП\CourseWork\CourseWork\obj\Debug\NewUser.g.cs
+D:\Учеба\ТП\CourseWork\CourseWork\obj\Debug\NewUser.baml
+C:\Users\Artem\Desktop\Учеба\ТП\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Users\Artem\Desktop\Учеба\ТП\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+C:\Users\Artem\Desktop\Учеба\ТП\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+C:\Users\Artem\Desktop\Учеба\ТП\CourseWork\CourseWork\bin\Debug\EntityFramework.dll
+C:\Users\Artem\Desktop\Учеба\ТП\CourseWork\CourseWork\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Artem\Desktop\Учеба\ТП\CourseWork\CourseWork\bin\Debug\System.Data.SQLite.dll
+C:\Users\Artem\Desktop\Учеба\ТП\CourseWork\CourseWork\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Artem\Desktop\Учеба\ТП\CourseWork\CourseWork\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Artem\Desktop\Учеба\ТП\CourseWork\CourseWork\bin\Debug\EntityFramework.xml
+C:\Users\Artem\Desktop\Учеба\ТП\CourseWork\CourseWork\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Artem\Desktop\Учеба\ТП\CourseWork\CourseWork\bin\Debug\System.Data.SQLite.xml
+C:\Users\Artem\Desktop\Учеба\ТП\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.AssemblyReference.cache
+C:\Users\Artem\Desktop\Учеба\ТП\CourseWork\CourseWork\obj\Debug\AdminMenu.g.cs
+C:\Users\Artem\Desktop\Учеба\ТП\CourseWork\CourseWork\obj\Debug\MainWindow.g.cs
+C:\Users\Artem\Desktop\Учеба\ТП\CourseWork\CourseWork\obj\Debug\NewUser.g.cs
+C:\Users\Artem\Desktop\Учеба\ТП\CourseWork\CourseWork\obj\Debug\Registration.g.cs
+C:\Users\Artem\Desktop\Учеба\ТП\CourseWork\CourseWork\obj\Debug\TakeCourses.g.cs
+C:\Users\Artem\Desktop\Учеба\ТП\CourseWork\CourseWork\obj\Debug\UserMenu.g.cs
+C:\Users\Artem\Desktop\Учеба\ТП\CourseWork\CourseWork\obj\Debug\App.g.cs
+C:\Users\Artem\Desktop\Учеба\ТП\CourseWork\CourseWork\obj\Debug\CourseWork_MarkupCompile.cache
+C:\Users\Artem\Desktop\Учеба\ТП\CourseWork\CourseWork\obj\Debug\CourseWork_MarkupCompile.lref
+C:\Users\Artem\Desktop\Учеба\ТП\CourseWork\CourseWork\obj\Debug\AdminMenu.baml
+C:\Users\Artem\Desktop\Учеба\ТП\CourseWork\CourseWork\obj\Debug\MainWindow.baml
+C:\Users\Artem\Desktop\Учеба\ТП\CourseWork\CourseWork\obj\Debug\NewUser.baml
+C:\Users\Artem\Desktop\Учеба\ТП\CourseWork\CourseWork\obj\Debug\Registration.baml
+C:\Users\Artem\Desktop\Учеба\ТП\CourseWork\CourseWork\obj\Debug\TakeCourses.baml
+C:\Users\Artem\Desktop\Учеба\ТП\CourseWork\CourseWork\obj\Debug\UserMenu.baml
+C:\Users\Artem\Desktop\Учеба\ТП\CourseWork\CourseWork\obj\Debug\CourseWork.g.resources
+C:\Users\Artem\Desktop\Учеба\ТП\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Users\Artem\Desktop\Учеба\ТП\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Users\Artem\Desktop\Учеба\ТП\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\Учеба\ТП\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CopyComplete
+C:\Users\Artem\Desktop\Учеба\ТП\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+C:\Users\Artem\Desktop\Учеба\ТП\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+D:\Учеба\ТП\CourseWork\CourseWork\obj\Debug\UserAdmin.g.cs
+D:\Учеба\ТП\CourseWork\CourseWork\obj\Debug\UserResults.g.cs
+D:\Учеба\ТП\CourseWork\CourseWork\obj\Debug\UserAdmin.baml
+D:\Учеба\ТП\CourseWork\CourseWork\obj\Debug\UserResults.baml
+D:\Учеба\ТП\CourseWork\CourseWork\bin\Debug\DB.db
+C:\Users\Artem\Desktop\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Users\Artem\Desktop\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+C:\Users\Artem\Desktop\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+C:\Users\Artem\Desktop\CourseWork\CourseWork\bin\Debug\EntityFramework.dll
+C:\Users\Artem\Desktop\CourseWork\CourseWork\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Artem\Desktop\CourseWork\CourseWork\bin\Debug\System.Data.SQLite.dll
+C:\Users\Artem\Desktop\CourseWork\CourseWork\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Artem\Desktop\CourseWork\CourseWork\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Artem\Desktop\CourseWork\CourseWork\bin\Debug\EntityFramework.xml
+C:\Users\Artem\Desktop\CourseWork\CourseWork\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Artem\Desktop\CourseWork\CourseWork\bin\Debug\System.Data.SQLite.xml
+C:\Users\Artem\Desktop\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.AssemblyReference.cache
+C:\Users\Artem\Desktop\CourseWork\CourseWork\obj\Debug\MainWindow.g.cs
+C:\Users\Artem\Desktop\CourseWork\CourseWork\obj\Debug\App.g.cs
+C:\Users\Artem\Desktop\CourseWork\CourseWork\obj\Debug\CourseWork_MarkupCompile.cache
+C:\Users\Artem\Desktop\CourseWork\CourseWork\obj\Debug\CourseWork_MarkupCompile.lref
+C:\Users\Artem\Desktop\CourseWork\CourseWork\obj\Debug\MainWindow.baml
+C:\Users\Artem\Desktop\CourseWork\CourseWork\obj\Debug\CourseWork.g.resources
+C:\Users\Artem\Desktop\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Users\Artem\Desktop\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Users\Artem\Desktop\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.Up2Date
+C:\Users\Artem\Desktop\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+C:\Users\Artem\Desktop\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+C:\Users\Artem\Desktop\CourseWork — копия\CourseWork\bin\Debug\DB.db
+C:\Users\Artem\Desktop\CourseWork — копия\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Users\Artem\Desktop\CourseWork — копия\CourseWork\bin\Debug\CourseWork.exe
+C:\Users\Artem\Desktop\CourseWork — копия\CourseWork\bin\Debug\CourseWork.pdb
+C:\Users\Artem\Desktop\CourseWork — копия\CourseWork\bin\Debug\EntityFramework.dll
+C:\Users\Artem\Desktop\CourseWork — копия\CourseWork\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Artem\Desktop\CourseWork — копия\CourseWork\bin\Debug\System.Data.SQLite.dll
+C:\Users\Artem\Desktop\CourseWork — копия\CourseWork\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Artem\Desktop\CourseWork — копия\CourseWork\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Artem\Desktop\CourseWork — копия\CourseWork\bin\Debug\EntityFramework.xml
+C:\Users\Artem\Desktop\CourseWork — копия\CourseWork\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Artem\Desktop\CourseWork — копия\CourseWork\bin\Debug\System.Data.SQLite.xml
+C:\Users\Artem\Desktop\CourseWork — копия\CourseWork\obj\Debug\CourseWork.csproj.AssemblyReference.cache
+C:\Users\Artem\Desktop\CourseWork — копия\CourseWork\obj\Debug\AdminMenu.g.cs
+C:\Users\Artem\Desktop\CourseWork — копия\CourseWork\obj\Debug\MainWindow.g.cs
+C:\Users\Artem\Desktop\CourseWork — копия\CourseWork\obj\Debug\NewUser.g.cs
+C:\Users\Artem\Desktop\CourseWork — копия\CourseWork\obj\Debug\Registration.g.cs
+C:\Users\Artem\Desktop\CourseWork — копия\CourseWork\obj\Debug\TakeCourses.g.cs
+C:\Users\Artem\Desktop\CourseWork — копия\CourseWork\obj\Debug\UserAdmin.g.cs
+C:\Users\Artem\Desktop\CourseWork — копия\CourseWork\obj\Debug\UserMenu.g.cs
+C:\Users\Artem\Desktop\CourseWork — копия\CourseWork\obj\Debug\UserResults.g.cs
+C:\Users\Artem\Desktop\CourseWork — копия\CourseWork\obj\Debug\App.g.cs
+C:\Users\Artem\Desktop\CourseWork — копия\CourseWork\obj\Debug\CourseWork_MarkupCompile.cache
+C:\Users\Artem\Desktop\CourseWork — копия\CourseWork\obj\Debug\CourseWork_MarkupCompile.lref
+C:\Users\Artem\Desktop\CourseWork — копия\CourseWork\obj\Debug\AdminMenu.baml
+C:\Users\Artem\Desktop\CourseWork — копия\CourseWork\obj\Debug\MainWindow.baml
+C:\Users\Artem\Desktop\CourseWork — копия\CourseWork\obj\Debug\NewUser.baml
+C:\Users\Artem\Desktop\CourseWork — копия\CourseWork\obj\Debug\Registration.baml
+C:\Users\Artem\Desktop\CourseWork — копия\CourseWork\obj\Debug\TakeCourses.baml
+C:\Users\Artem\Desktop\CourseWork — копия\CourseWork\obj\Debug\UserAdmin.baml
+C:\Users\Artem\Desktop\CourseWork — копия\CourseWork\obj\Debug\UserMenu.baml
+C:\Users\Artem\Desktop\CourseWork — копия\CourseWork\obj\Debug\UserResults.baml
+C:\Users\Artem\Desktop\CourseWork — копия\CourseWork\obj\Debug\CourseWork.g.resources
+C:\Users\Artem\Desktop\CourseWork — копия\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Users\Artem\Desktop\CourseWork — копия\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Users\Artem\Desktop\CourseWork — копия\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\CourseWork — копия\CourseWork\obj\Debug\CourseWork.csproj.Up2Date
+C:\Users\Artem\Desktop\CourseWork — копия\CourseWork\obj\Debug\CourseWork.exe
+C:\Users\Artem\Desktop\CourseWork — копия\CourseWork\obj\Debug\CourseWork.pdb
+C:\Users\Artem\Desktop\4к курсовая\CourseWork\bin\Debug\DB.db
+C:\Users\Artem\Desktop\4к курсовая\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Users\Artem\Desktop\4к курсовая\CourseWork\bin\Debug\CourseWork.exe
+C:\Users\Artem\Desktop\4к курсовая\CourseWork\bin\Debug\CourseWork.pdb
+C:\Users\Artem\Desktop\4к курсовая\CourseWork\bin\Debug\EntityFramework.dll
+C:\Users\Artem\Desktop\4к курсовая\CourseWork\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Artem\Desktop\4к курсовая\CourseWork\bin\Debug\System.Data.SQLite.dll
+C:\Users\Artem\Desktop\4к курсовая\CourseWork\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Artem\Desktop\4к курсовая\CourseWork\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Artem\Desktop\4к курсовая\CourseWork\bin\Debug\EntityFramework.xml
+C:\Users\Artem\Desktop\4к курсовая\CourseWork\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Artem\Desktop\4к курсовая\CourseWork\bin\Debug\System.Data.SQLite.xml
+C:\Users\Artem\Desktop\4к курсовая\CourseWork\obj\Debug\CourseWork.csproj.AssemblyReference.cache
+C:\Users\Artem\Desktop\4к курсовая\CourseWork\obj\Debug\MainWindow.g.cs
+C:\Users\Artem\Desktop\4к курсовая\CourseWork\obj\Debug\App.g.cs
+C:\Users\Artem\Desktop\4к курсовая\CourseWork\obj\Debug\CourseWork_MarkupCompile.cache
+C:\Users\Artem\Desktop\4к курсовая\CourseWork\obj\Debug\CourseWork_MarkupCompile.lref
+C:\Users\Artem\Desktop\4к курсовая\CourseWork\obj\Debug\MainWindow.baml
+C:\Users\Artem\Desktop\4к курсовая\CourseWork\obj\Debug\CourseWork.g.resources
+C:\Users\Artem\Desktop\4к курсовая\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Users\Artem\Desktop\4к курсовая\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Users\Artem\Desktop\4к курсовая\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\4к курсовая\CourseWork\obj\Debug\CourseWork.csproj.Up2Date
+C:\Users\Artem\Desktop\4к курсовая\CourseWork\obj\Debug\CourseWork.exe
+C:\Users\Artem\Desktop\4к курсовая\CourseWork\obj\Debug\CourseWork.pdb
+C:\Users\Artem\Desktop\4к курсовая\CourseWork\obj\Debug\NewEducationDepartament.g.cs
+C:\Users\Artem\Desktop\4к курсовая\CourseWork\obj\Debug\NewEducationDepartament.baml
+C:\Users\Artem\Desktop\4к курсовая\CourseWork\obj\Debug\NewDeaner.g.cs
+C:\Users\Artem\Desktop\4к курсовая\CourseWork\obj\Debug\NewDeaner.baml
+C:\Users\Artem\Desktop\4к курсовая\CourseWork\obj\Debug\DeanerWindow.g.cs
+C:\Users\Artem\Desktop\4к курсовая\CourseWork\obj\Debug\EducationDepartementWindow.g.cs
+C:\Users\Artem\Desktop\4к курсовая\CourseWork\obj\Debug\NewDepartament.g.cs
+C:\Users\Artem\Desktop\4к курсовая\CourseWork\obj\Debug\DeanerWindow.baml
+C:\Users\Artem\Desktop\4к курсовая\CourseWork\obj\Debug\EducationDepartementWindow.baml
+C:\Users\Artem\Desktop\4к курсовая\CourseWork\obj\Debug\NewDepartament.baml
+C:\Users\Artem\Desktop\courseWork\CourseWork\obj\Debug\DeanerWindow.g.cs
+C:\Users\Artem\Desktop\courseWork\CourseWork\obj\Debug\EducationDepartementWindow.g.cs
+C:\Users\Artem\Desktop\courseWork\CourseWork\obj\Debug\NewDeaner.g.cs
+C:\Users\Artem\Desktop\courseWork\CourseWork\obj\Debug\NewEducationDepartament.g.cs
+C:\Users\Artem\Desktop\courseWork\CourseWork\obj\Debug\NewDepartament.g.cs
+C:\Users\Artem\Desktop\courseWork\CourseWork\obj\Debug\DeanerWindow.baml
+C:\Users\Artem\Desktop\courseWork\CourseWork\obj\Debug\EducationDepartementWindow.baml
+C:\Users\Artem\Desktop\courseWork\CourseWork\obj\Debug\NewDeaner.baml
+C:\Users\Artem\Desktop\courseWork\CourseWork\obj\Debug\NewEducationDepartament.baml
+C:\Users\Artem\Desktop\courseWork\CourseWork\obj\Debug\NewDepartament.baml
+C:\Users\Hasee\OneDrive\Рабочий стол\courseWork\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Users\Hasee\OneDrive\Рабочий стол\courseWork\CourseWork\bin\Debug\CourseWork.exe
+C:\Users\Hasee\OneDrive\Рабочий стол\courseWork\CourseWork\bin\Debug\CourseWork.pdb
+C:\Users\Hasee\OneDrive\Рабочий стол\courseWork\CourseWork\bin\Debug\EntityFramework.dll
+C:\Users\Hasee\OneDrive\Рабочий стол\courseWork\CourseWork\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hasee\OneDrive\Рабочий стол\courseWork\CourseWork\bin\Debug\System.Data.SQLite.dll
+C:\Users\Hasee\OneDrive\Рабочий стол\courseWork\CourseWork\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Hasee\OneDrive\Рабочий стол\courseWork\CourseWork\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Hasee\OneDrive\Рабочий стол\courseWork\CourseWork\bin\Debug\EntityFramework.xml
+C:\Users\Hasee\OneDrive\Рабочий стол\courseWork\CourseWork\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hasee\OneDrive\Рабочий стол\courseWork\CourseWork\bin\Debug\System.Data.SQLite.xml
+C:\Users\Hasee\OneDrive\Рабочий стол\courseWork\CourseWork\obj\Debug\CourseWork.csproj.AssemblyReference.cache
+C:\Users\Hasee\OneDrive\Рабочий стол\courseWork\CourseWork\obj\Debug\DeanerWindow.g.cs
+C:\Users\Hasee\OneDrive\Рабочий стол\courseWork\CourseWork\obj\Debug\EducationDepartementWindow.g.cs
+C:\Users\Hasee\OneDrive\Рабочий стол\courseWork\CourseWork\obj\Debug\MainWindow.g.cs
+C:\Users\Hasee\OneDrive\Рабочий стол\courseWork\CourseWork\obj\Debug\NewDeaner.g.cs
+C:\Users\Hasee\OneDrive\Рабочий стол\courseWork\CourseWork\obj\Debug\NewEducationDepartament.g.cs
+C:\Users\Hasee\OneDrive\Рабочий стол\courseWork\CourseWork\obj\Debug\NewDepartament.g.cs
+C:\Users\Hasee\OneDrive\Рабочий стол\courseWork\CourseWork\obj\Debug\App.g.cs
+C:\Users\Hasee\OneDrive\Рабочий стол\courseWork\CourseWork\obj\Debug\CourseWork_MarkupCompile.cache
+C:\Users\Hasee\OneDrive\Рабочий стол\courseWork\CourseWork\obj\Debug\CourseWork_MarkupCompile.lref
+C:\Users\Hasee\OneDrive\Рабочий стол\courseWork\CourseWork\obj\Debug\DeanerWindow.baml
+C:\Users\Hasee\OneDrive\Рабочий стол\courseWork\CourseWork\obj\Debug\EducationDepartementWindow.baml
+C:\Users\Hasee\OneDrive\Рабочий стол\courseWork\CourseWork\obj\Debug\MainWindow.baml
+C:\Users\Hasee\OneDrive\Рабочий стол\courseWork\CourseWork\obj\Debug\NewDeaner.baml
+C:\Users\Hasee\OneDrive\Рабочий стол\courseWork\CourseWork\obj\Debug\NewEducationDepartament.baml
+C:\Users\Hasee\OneDrive\Рабочий стол\courseWork\CourseWork\obj\Debug\NewDepartament.baml
+C:\Users\Hasee\OneDrive\Рабочий стол\courseWork\CourseWork\obj\Debug\CourseWork.g.resources
+C:\Users\Hasee\OneDrive\Рабочий стол\courseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Users\Hasee\OneDrive\Рабочий стол\courseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Users\Hasee\OneDrive\Рабочий стол\courseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\Hasee\OneDrive\Рабочий стол\courseWork\CourseWork\obj\Debug\CourseWork.csproj.Up2Date
+C:\Users\Hasee\OneDrive\Рабочий стол\courseWork\CourseWork\obj\Debug\CourseWork.exe
+C:\Users\Hasee\OneDrive\Рабочий стол\courseWork\CourseWork\obj\Debug\CourseWork.pdb
+C:\Users\Hasee\OneDrive\Рабочий стол\!\Учёба\2 курс\2 курс 2 семестр\ТП\Курсовая работа\courseWork\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Users\Hasee\OneDrive\Рабочий стол\!\Учёба\2 курс\2 курс 2 семестр\ТП\Курсовая работа\courseWork\CourseWork\bin\Debug\CourseWork.exe
+C:\Users\Hasee\OneDrive\Рабочий стол\!\Учёба\2 курс\2 курс 2 семестр\ТП\Курсовая работа\courseWork\CourseWork\bin\Debug\CourseWork.pdb
+C:\Users\Hasee\OneDrive\Рабочий стол\!\Учёба\2 курс\2 курс 2 семестр\ТП\Курсовая работа\courseWork\CourseWork\bin\Debug\EntityFramework.dll
+C:\Users\Hasee\OneDrive\Рабочий стол\!\Учёба\2 курс\2 курс 2 семестр\ТП\Курсовая работа\courseWork\CourseWork\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hasee\OneDrive\Рабочий стол\!\Учёба\2 курс\2 курс 2 семестр\ТП\Курсовая работа\courseWork\CourseWork\bin\Debug\System.Data.SQLite.dll
+C:\Users\Hasee\OneDrive\Рабочий стол\!\Учёба\2 курс\2 курс 2 семестр\ТП\Курсовая работа\courseWork\CourseWork\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Hasee\OneDrive\Рабочий стол\!\Учёба\2 курс\2 курс 2 семестр\ТП\Курсовая работа\courseWork\CourseWork\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Hasee\OneDrive\Рабочий стол\!\Учёба\2 курс\2 курс 2 семестр\ТП\Курсовая работа\courseWork\CourseWork\bin\Debug\EntityFramework.xml
+C:\Users\Hasee\OneDrive\Рабочий стол\!\Учёба\2 курс\2 курс 2 семестр\ТП\Курсовая работа\courseWork\CourseWork\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hasee\OneDrive\Рабочий стол\!\Учёба\2 курс\2 курс 2 семестр\ТП\Курсовая работа\courseWork\CourseWork\bin\Debug\System.Data.SQLite.xml
+C:\Users\Hasee\OneDrive\Рабочий стол\!\Учёба\2 курс\2 курс 2 семестр\ТП\Курсовая работа\courseWork\CourseWork\obj\Debug\CourseWork.csproj.AssemblyReference.cache
+C:\Users\Hasee\OneDrive\Рабочий стол\!\Учёба\2 курс\2 курс 2 семестр\ТП\Курсовая работа\courseWork\CourseWork\obj\Debug\DeanerWindow.g.cs
+C:\Users\Hasee\OneDrive\Рабочий стол\!\Учёба\2 курс\2 курс 2 семестр\ТП\Курсовая работа\courseWork\CourseWork\obj\Debug\EducationDepartementWindow.g.cs
+C:\Users\Hasee\OneDrive\Рабочий стол\!\Учёба\2 курс\2 курс 2 семестр\ТП\Курсовая работа\courseWork\CourseWork\obj\Debug\MainWindow.g.cs
+C:\Users\Hasee\OneDrive\Рабочий стол\!\Учёба\2 курс\2 курс 2 семестр\ТП\Курсовая работа\courseWork\CourseWork\obj\Debug\NewDeaner.g.cs
+C:\Users\Hasee\OneDrive\Рабочий стол\!\Учёба\2 курс\2 курс 2 семестр\ТП\Курсовая работа\courseWork\CourseWork\obj\Debug\NewEducationDepartament.g.cs
+C:\Users\Hasee\OneDrive\Рабочий стол\!\Учёба\2 курс\2 курс 2 семестр\ТП\Курсовая работа\courseWork\CourseWork\obj\Debug\NewDepartament.g.cs
+C:\Users\Hasee\OneDrive\Рабочий стол\!\Учёба\2 курс\2 курс 2 семестр\ТП\Курсовая работа\courseWork\CourseWork\obj\Debug\App.g.cs
+C:\Users\Hasee\OneDrive\Рабочий стол\!\Учёба\2 курс\2 курс 2 семестр\ТП\Курсовая работа\courseWork\CourseWork\obj\Debug\CourseWork_MarkupCompile.cache
+C:\Users\Hasee\OneDrive\Рабочий стол\!\Учёба\2 курс\2 курс 2 семестр\ТП\Курсовая работа\courseWork\CourseWork\obj\Debug\CourseWork_MarkupCompile.lref
+C:\Users\Hasee\OneDrive\Рабочий стол\!\Учёба\2 курс\2 курс 2 семестр\ТП\Курсовая работа\courseWork\CourseWork\obj\Debug\DeanerWindow.baml
+C:\Users\Hasee\OneDrive\Рабочий стол\!\Учёба\2 курс\2 курс 2 семестр\ТП\Курсовая работа\courseWork\CourseWork\obj\Debug\EducationDepartementWindow.baml
+C:\Users\Hasee\OneDrive\Рабочий стол\!\Учёба\2 курс\2 курс 2 семестр\ТП\Курсовая работа\courseWork\CourseWork\obj\Debug\MainWindow.baml
+C:\Users\Hasee\OneDrive\Рабочий стол\!\Учёба\2 курс\2 курс 2 семестр\ТП\Курсовая работа\courseWork\CourseWork\obj\Debug\NewDeaner.baml
+C:\Users\Hasee\OneDrive\Рабочий стол\!\Учёба\2 курс\2 курс 2 семестр\ТП\Курсовая работа\courseWork\CourseWork\obj\Debug\NewEducationDepartament.baml
+C:\Users\Hasee\OneDrive\Рабочий стол\!\Учёба\2 курс\2 курс 2 семестр\ТП\Курсовая работа\courseWork\CourseWork\obj\Debug\NewDepartament.baml
+C:\Users\Hasee\OneDrive\Рабочий стол\!\Учёба\2 курс\2 курс 2 семестр\ТП\Курсовая работа\courseWork\CourseWork\obj\Debug\CourseWork.g.resources
+C:\Users\Hasee\OneDrive\Рабочий стол\!\Учёба\2 курс\2 курс 2 семестр\ТП\Курсовая работа\courseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Users\Hasee\OneDrive\Рабочий стол\!\Учёба\2 курс\2 курс 2 семестр\ТП\Курсовая работа\courseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Users\Hasee\OneDrive\Рабочий стол\!\Учёба\2 курс\2 курс 2 семестр\ТП\Курсовая работа\courseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\Hasee\OneDrive\Рабочий стол\!\Учёба\2 курс\2 курс 2 семестр\ТП\Курсовая работа\courseWork\CourseWork\obj\Debug\CourseWork.csproj.Up2Date
+C:\Users\Hasee\OneDrive\Рабочий стол\!\Учёба\2 курс\2 курс 2 семестр\ТП\Курсовая работа\courseWork\CourseWork\obj\Debug\CourseWork.exe
+C:\Users\Hasee\OneDrive\Рабочий стол\!\Учёба\2 курс\2 курс 2 семестр\ТП\Курсовая работа\courseWork\CourseWork\obj\Debug\CourseWork.pdb
+C:\Users\Artem\Desktop\4к\courseWork\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Users\Artem\Desktop\4к\courseWork\CourseWork\bin\Debug\CourseWork.exe
+C:\Users\Artem\Desktop\4к\courseWork\CourseWork\bin\Debug\CourseWork.pdb
+C:\Users\Artem\Desktop\4к\courseWork\CourseWork\bin\Debug\EntityFramework.dll
+C:\Users\Artem\Desktop\4к\courseWork\CourseWork\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Artem\Desktop\4к\courseWork\CourseWork\bin\Debug\System.Data.SQLite.dll
+C:\Users\Artem\Desktop\4к\courseWork\CourseWork\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Artem\Desktop\4к\courseWork\CourseWork\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Artem\Desktop\4к\courseWork\CourseWork\bin\Debug\EntityFramework.xml
+C:\Users\Artem\Desktop\4к\courseWork\CourseWork\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Artem\Desktop\4к\courseWork\CourseWork\bin\Debug\System.Data.SQLite.xml
+C:\Users\Artem\Desktop\4к\courseWork\CourseWork\obj\Debug\CourseWork.csproj.AssemblyReference.cache
+C:\Users\Artem\Desktop\4к\courseWork\CourseWork\obj\Debug\DeanerWindow.g.cs
+C:\Users\Artem\Desktop\4к\courseWork\CourseWork\obj\Debug\EducationDepartementWindow.g.cs
+C:\Users\Artem\Desktop\4к\courseWork\CourseWork\obj\Debug\MainWindow.g.cs
+C:\Users\Artem\Desktop\4к\courseWork\CourseWork\obj\Debug\NewDeaner.g.cs
+C:\Users\Artem\Desktop\4к\courseWork\CourseWork\obj\Debug\NewEducationDepartament.g.cs
+C:\Users\Artem\Desktop\4к\courseWork\CourseWork\obj\Debug\NewDepartament.g.cs
+C:\Users\Artem\Desktop\4к\courseWork\CourseWork\obj\Debug\App.g.cs
+C:\Users\Artem\Desktop\4к\courseWork\CourseWork\obj\Debug\CourseWork_MarkupCompile.cache
+C:\Users\Artem\Desktop\4к\courseWork\CourseWork\obj\Debug\CourseWork_MarkupCompile.lref
+C:\Users\Artem\Desktop\4к\courseWork\CourseWork\obj\Debug\DeanerWindow.baml
+C:\Users\Artem\Desktop\4к\courseWork\CourseWork\obj\Debug\EducationDepartementWindow.baml
+C:\Users\Artem\Desktop\4к\courseWork\CourseWork\obj\Debug\MainWindow.baml
+C:\Users\Artem\Desktop\4к\courseWork\CourseWork\obj\Debug\NewDeaner.baml
+C:\Users\Artem\Desktop\4к\courseWork\CourseWork\obj\Debug\NewEducationDepartament.baml
+C:\Users\Artem\Desktop\4к\courseWork\CourseWork\obj\Debug\NewDepartament.baml
+C:\Users\Artem\Desktop\4к\courseWork\CourseWork\obj\Debug\CourseWork.g.resources
+C:\Users\Artem\Desktop\4к\courseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Users\Artem\Desktop\4к\courseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Users\Artem\Desktop\4к\courseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\4к\courseWork\CourseWork\obj\Debug\CourseWork.csproj.Up2Date
+C:\Users\Artem\Desktop\4к\courseWork\CourseWork\obj\Debug\CourseWork.exe
+C:\Users\Artem\Desktop\4к\courseWork\CourseWork\obj\Debug\CourseWork.pdb

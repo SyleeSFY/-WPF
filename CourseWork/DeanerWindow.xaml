@@ -1,0 +1,120 @@
+﻿<Window x:Class="CourseWork.DeanerWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CourseWork"
+        mc:Ignorable="d" 
+        Title="DeanerWindow"  Height="700" Width="1352" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None" >
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="670"/>
+
+
+        </Grid.RowDefinitions>
+
+        <Grid x:Name="Shoke" Grid.Row="1" >
+            <Grid.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF3A3838"/>
+                    <GradientStop Color="#FFB3B3B3" Offset="1"/>
+                </LinearGradientBrush>
+            </Grid.Background>
+
+            <ComboBox x:Name="combox1" HorizontalAlignment="Left" Height="28" Margin="488,566,0,0" VerticalAlignment="Top" Width="215" />
+            <Button x:Name="ButtonSelect" Content="Выбрать пользователя" HorizontalAlignment="Left" Height="43" Margin="488,614,0,0" VerticalAlignment="Top" Width="215" Click="ButtonSelect_Click" FontSize="10"/>
+            <TextBlock x:Name="label" HorizontalAlignment="Left" Margin="135,361,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
+            <ComboBox x:Name="CategoryComboBox" HorizontalAlignment="Left" Height="28" Margin="182,566,0,0" VerticalAlignment="Top" Width="266"/>
+            <Button x:Name="ButtonCategory" Content="Выбор" HorizontalAlignment="Left" Height="43" Margin="233,609,0,0" VerticalAlignment="Top" Width="164" Click="ButtonCategory_Click"/>
+            <DataGrid x:Name="DataGridCategory" IsReadOnly="True" HorizontalAlignment="Left" Height="540" Margin="182,12,0,0" VerticalAlignment="Top" Width="1168" d:ItemsSource="{d:SampleData ItemCount=5}" Background="#FF4E4E4E"/>
+            <TextBlock x:Name="NAME" HorizontalAlignment="Left" Margin="71,534,0,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+            <Button x:Name="DeleteButton" Content="Удалить аккаунт" HorizontalAlignment="Left" Height="40" Margin="944,620,0,0" VerticalAlignment="Top" Width="394" Click="DeleteButton_Click" />
+
+            <TextBox x:Name="FirstNameTextBlock" HorizontalAlignment="Left" Height="26" Margin="10,30,0,0" TextWrapping="Wrap" Text="Имя" VerticalAlignment="Top" Width="158"/>
+            <TextBox  x:Name="SecondNameTextBlock" HorizontalAlignment="Left" Height="30" Margin="10,85,0,0" TextWrapping="Wrap" Text="Фамилия" VerticalAlignment="Top" Width="158"/>
+            <TextBox  x:Name="MiddleName" HorizontalAlignment="Left" Height="30" Margin="10,140,0,0" TextWrapping="Wrap" Text="Отчество" VerticalAlignment="Top" Width="158"/>
+            <ComboBox  x:Name="TextBox_Position" HorizontalAlignment="Left" Height="28" Margin="10,198,0,0"  Text="Должность" VerticalAlignment="Top" Width="158"/>
+            <Button x:Name="Button_Complect" Content="Обновить данные" HorizontalAlignment="Left" Height="144" Margin="10,513,0,0" VerticalAlignment="Top" Width="158" Click="Button_Click" FontSize="18" />
+            <ComboBox  x:Name="TextBox_Academic" HorizontalAlignment="Left" Height="28" Margin="10,254,0,0"  Text="Пароль" VerticalAlignment="Top" Width="158" RenderTransformOrigin="0.5,0.929"/>
+            <ComboBox  x:Name="TextBox_PublicWork" HorizontalAlignment="Left" Height="28" Margin="10,307,0,0"  Text="Пароль" VerticalAlignment="Top" Width="158" RenderTransformOrigin="0.5,0.929"/>
+            <TextBox  x:Name="Hours" HorizontalAlignment="Left" Height="28" Margin="10,361,0,0" TextWrapping="Wrap" Text="Часы" VerticalAlignment="Top" Width="158" RenderTransformOrigin="0.5,0.929"/>
+            <ComboBox  x:Name="TextBox_Dicipline" HorizontalAlignment="Left" Height="28" Margin="10,423,0,0" Text="Пароль" VerticalAlignment="Top" Width="158" RenderTransformOrigin="0.5,0.929"/>
+            <CheckBox  x:Name="CheckBox1" HorizontalAlignment="Left" Height="28" Margin="79,480,0,0" VerticalAlignment="Top" Width="29" RenderTransformOrigin="0.5,0.929"/>
+            <TextBlock x:Name="lable_secondwork" HorizontalAlignment="Left" Height="17" Margin="10,456,0,0" TextWrapping="Wrap" Text="Совместительство" VerticalAlignment="Top" Width="138" FontFamily="Segoe UI Black" FontSize="14" Foreground="White"/>
+
+            <TextBox  x:Name="TextBox_Login" Visibility="Collapsed" HorizontalAlignment="Left" Height="28" Margin="10,198,0,0" TextWrapping="Wrap" Text="Логин" VerticalAlignment="Top" Width="158" RenderTransformOrigin="0.5,0.929"/>
+            <TextBox  x:Name="TextBox_Password" Visibility="Collapsed" HorizontalAlignment="Left" Height="28" Margin="10,254,0,0" TextWrapping="Wrap" Text="Пароль" VerticalAlignment="Top" Width="158" RenderTransformOrigin="0.5,0.929"/>
+
+            <Button Content="Добавить учебный отдел" HorizontalAlignment="Left" Height="49" Margin="1090,566,0,0" VerticalAlignment="Top" Width="122" Click="Button_Click_Education" FontSize="8"/>
+            <Button Content="Добавить деканат" HorizontalAlignment="Left" Height="49" Margin="1217,566,0,0" VerticalAlignment="Top" Width="121" Click="Button_Click_Deaner" FontSize="10"/>
+            <Button Content="       Добавить &#xD;&#xA;сотрудника кафедры" HorizontalAlignment="Left" Height="49" Margin="944,566,0,0" VerticalAlignment="Top" Width="130" Click="Button_Click_Departament" FontSize="10"/>
+        </Grid>
+        <Grid x:Name="ToolBar" Background="Transparent" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" MouseDown="ToolBar_MouseDown">
+            <Polygon Fill="Black" Points="0,0,0,30,50,30" Opacity="0.85"/>
+            <Polygon Fill="Black" Points="0,0,50,30,400,30,340,0" Opacity="0.88"/>
+            <Polygon Fill="Black" Points="340,0,400,30,900,30,840,0" Opacity="0.9"/>
+            <Polygon Fill="Black" Points="840,0,900,30,1353,30,1353,0" Opacity="0.92"/>
+
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                <Image x:Name="MinButton" Height="15" Width="15" Margin="5,5,7,5" MouseDown="MinButton_MouseDown">
+                    <Image.Style>
+                        <Style TargetType="{x:Type Image}">
+                            <Setter Property="Source" Value="/Resource/clear sleep.png"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding IsMouseOver, ElementName=MinButton}" Value="True">
+                                    <Setter Property="Source" Value= "/Resource/clear NOPE sleep.png"/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Image.Style>
+                    <Image.Effect>
+                        <BlurEffect Radius="1.5"/>
+                    </Image.Effect>
+                </Image>
+                <Image x:Name="CloseButton" Height="15" Width="15" Margin="5" MouseDown="CloseButton_MouseDown">
+                    <Image.Style>
+                        <Style TargetType="{x:Type Image}">
+                            <Setter Property="Source" Value="/Resource/close sleep.png"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding IsMouseOver, ElementName=CloseButton}" Value="True">
+                                    <Setter Property="Source" Value= "/Resource/close NOPE sleep.png"/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Image.Style>
+                    <Image.Effect>
+                        <BlurEffect Radius="1.5"/>
+                    </Image.Effect>
+                </Image>
+            </StackPanel>
+        </Grid>
+        <TextBlock x:Name="lable_name" HorizontalAlignment="Left" Height="17" Margin="10,10,0,0" TextWrapping="Wrap" Text="Имя" VerticalAlignment="Top" Width="40" FontFamily="Segoe UI Black" FontSize="14" Foreground="White" Grid.Row="1"/>
+        <TextBlock x:Name="lable_family" HorizontalAlignment="Left" Height="17" Margin="10,64,0,0" TextWrapping="Wrap" Text="Фамилия" VerticalAlignment="Top" Width="76" FontFamily="Segoe UI Black" FontSize="14" Foreground="White" Grid.Row="1"/>
+        <TextBlock x:Name="lable_middle" HorizontalAlignment="Left" Height="16" Margin="10,121,0,0" TextWrapping="Wrap" Text="Отчество" VerticalAlignment="Top" Width="76" FontFamily="Segoe UI Black" FontSize="14" Foreground="White" Grid.Row="1"/>
+        <TextBlock x:Name="lable_position" HorizontalAlignment="Left" Height="17" Margin="10,175,0,0" TextWrapping="Wrap" Text="Должность" VerticalAlignment="Top" Width="91" FontFamily="Segoe UI Black" FontSize="14" Foreground="White" Grid.Row="1"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Деканат" Height="24" Width="243" Foreground="White" FontSize="18" FontFamily="Segoe UI Black" FontWeight="Bold" VerticalAlignment="Top" Margin="0,-3,0,0"/>
+        <TextBlock x:Name="label_academic" HorizontalAlignment="Left" Height="17" Margin="14,233,0,0" TextWrapping="Wrap" Text="Ученая степень" VerticalAlignment="Top" Width="126" FontFamily="Segoe UI Black" FontSize="14" Foreground="White" Grid.Row="1" RenderTransformOrigin="0.5,0.5">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.579"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <TextBlock x:Name="lable_publickwork" HorizontalAlignment="Left" Height="17" Margin="10,290,0,0" TextWrapping="Wrap" Text="Общественная работа" VerticalAlignment="Top" Width="158" FontFamily="Segoe UI Black" Foreground="White" Grid.Row="1"/>
+        <TextBlock x:Name="lable_hours" HorizontalAlignment="Left" Height="16" Margin="10,341,0,0" TextWrapping="Wrap" Text="Часы" VerticalAlignment="Top" Width="68" FontFamily="Segoe UI Black" FontSize="14" Foreground="White" Grid.Row="1"/>
+        <TextBlock x:Name="lable_dicipline" HorizontalAlignment="Left" Height="17" Margin="10,400,0,0" TextWrapping="Wrap" Text="Дисциплина" VerticalAlignment="Top" Width="95" FontFamily="Segoe UI Black" FontSize="14" Foreground="White" Grid.Row="1"/>
+        <TextBlock x:Name="lable_login" Visibility="Hidden" HorizontalAlignment="Left" Height="17" Margin="10,175,0,0" TextWrapping="Wrap" Text="Логин" VerticalAlignment="Top" Width="91" FontFamily="Segoe UI Black" FontSize="14" Foreground="White" Grid.Row="1"/>
+        <TextBlock x:Name="lable_password" Visibility="Hidden" HorizontalAlignment="Left" Height="17" Margin="10,234,0,0" TextWrapping="Wrap" Text="Пароль" VerticalAlignment="Top" Width="91" FontFamily="Segoe UI Black" FontSize="14" Foreground="White" Grid.Row="1"/>
+        <Button  Content="Поиск" HorizontalAlignment="Left" Height="25" Margin="722,608,0,0" VerticalAlignment="Top" Width="208" Click="SearchButton_Click" Grid.Row="1" />
+        <Button x:Name="ResetSearch" Content="Сбросить результат" HorizontalAlignment="Left" Height="25" Margin="722,638,0,0" VerticalAlignment="Top" Width="208" Click="ResetSearchButton_Click" Grid.Row="1" />
+        <TextBox  x:Name="Search" HorizontalAlignment="Left" Height="30" Margin="722,563,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="208" Grid.Row="1"/>
+
+
+    </Grid>
+</Window>

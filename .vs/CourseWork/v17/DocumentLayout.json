@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Artem\\Desktop\\4\u043A\\courseWork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1C5524-7071-41CE-B043-23B1011BFD0A}|CourseWork\\CourseWork.csproj|c:\\users\\artem\\desktop\\4\u043A\\coursework\\coursework\\deanerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1C5524-7071-41CE-B043-23B1011BFD0A}|CourseWork\\CourseWork.csproj|solutionrelative:coursework\\deanerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1C5524-7071-41CE-B043-23B1011BFD0A}|CourseWork\\CourseWork.csproj|C:\\Users\\Artem\\Desktop\\4\u043A\\courseWork\\coursework\\educationdepartementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1C5524-7071-41CE-B043-23B1011BFD0A}|CourseWork\\CourseWork.csproj|solutionrelative:coursework\\educationdepartementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1C5524-7071-41CE-B043-23B1011BFD0A}|CourseWork\\CourseWork.csproj|C:\\Users\\Artem\\Desktop\\4\u043A\\courseWork\\coursework\\deanerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0B1C5524-7071-41CE-B043-23B1011BFD0A}|CourseWork\\CourseWork.csproj|solutionrelative:coursework\\deanerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1C5524-7071-41CE-B043-23B1011BFD0A}|CourseWork\\CourseWork.csproj|C:\\Users\\Artem\\Desktop\\4\u043A\\courseWork\\coursework\\educationdepartementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0B1C5524-7071-41CE-B043-23B1011BFD0A}|CourseWork\\CourseWork.csproj|solutionrelative:coursework\\educationdepartementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1C5524-7071-41CE-B043-23B1011BFD0A}|CourseWork\\CourseWork.csproj|C:\\Users\\Artem\\Desktop\\4\u043A\\courseWork\\coursework\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1C5524-7071-41CE-B043-23B1011BFD0A}|CourseWork\\CourseWork.csproj|solutionrelative:coursework\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1C5524-7071-41CE-B043-23B1011BFD0A}|CourseWork\\CourseWork.csproj|C:\\Users\\Artem\\Desktop\\4\u043A\\courseWork\\coursework\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0B1C5524-7071-41CE-B043-23B1011BFD0A}|CourseWork\\CourseWork.csproj|solutionrelative:coursework\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 407,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EducationDepartementWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\4\u043A\\courseWork\\CourseWork\\EducationDepartementWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CourseWork\\EducationDepartementWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\4\u043A\\courseWork\\CourseWork\\EducationDepartementWindow.xaml.cs",
+              "RelativeToolTip": "CourseWork\\EducationDepartementWindow.xaml.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAowL0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T14:58:24.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeanerWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\4\u043A\\courseWork\\CourseWork\\DeanerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CourseWork\\DeanerWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\4\u043A\\courseWork\\CourseWork\\DeanerWindow.xaml.cs",
+              "RelativeToolTip": "CourseWork\\DeanerWindow.xaml.cs",
+              "ViewState": "AgIAAJ8BAAAAAAAAAAAkwL0BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T09:13:31.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EducationDepartementWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\4\u043A\\courseWork\\CourseWork\\EducationDepartementWindow.xaml",
+              "RelativeDocumentMoniker": "CourseWork\\EducationDepartementWindow.xaml",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\4\u043A\\courseWork\\CourseWork\\EducationDepartementWindow.xaml",
+              "RelativeToolTip": "CourseWork\\EducationDepartementWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-14T09:17:37.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\4\u043A\\courseWork\\CourseWork\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CourseWork\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\4\u043A\\courseWork\\CourseWork\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CourseWork\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T09:12:19.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeanerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\4\u043A\\courseWork\\CourseWork\\DeanerWindow.xaml",
+              "RelativeDocumentMoniker": "CourseWork\\DeanerWindow.xaml",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\4\u043A\\courseWork\\CourseWork\\DeanerWindow.xaml",
+              "RelativeToolTip": "CourseWork\\DeanerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-14T09:17:18.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\4\u043A\\courseWork\\CourseWork\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CourseWork\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\4\u043A\\courseWork\\CourseWork\\MainWindow.xaml",
+              "RelativeToolTip": "CourseWork\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-14T09:37:37.415Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
